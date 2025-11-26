@@ -1,2 +1,2 @@
 # Informatique
-BAC PRO CIEL
+BAC PRO cIel
